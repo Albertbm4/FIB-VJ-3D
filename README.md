@@ -3,6 +3,6 @@
 
  Nota: 9,5
  
- ![](https://github.com/Albertbm4/FIB-VJ-3D/blob/main/Projecte/Assets/Images/MenuImages/FIBEdition.png?raw=true)
  ![](https://github.com/Albertbm4/FIB-VJ-3D/blob/main/Projecte/Assets/Images/MenuImages/StarFoxLogo.png?raw=true)
+  ![](https://github.com/Albertbm4/FIB-VJ-3D/blob/main/Projecte/Assets/Images/MenuImages/FIBEdition.png?raw=true)
  ![](https://github.com/Albertbm4/FIB-VJ-3D/blob/main/Projecte/Assets/Images/MenuImages/Fox%26Co.png?raw=true)
